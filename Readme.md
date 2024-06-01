@@ -7,5 +7,9 @@
 https://leetcode.com/problems/combine-two-tables/description/
 
 
+#### 01062024
+https://leetcode.com/problems/rank-scores/
+
+
 Email: shepherd.munemo@outlook.com
         +27 64 543 93863
