@@ -17,6 +17,9 @@ https://leetcode.com/problems/employees-earning-more-than-their-managers/descrip
 #### 02062024 Python & SQL
 https://leetcode.com/problems/duplicate-emails/description/
 
+#### 03062024 Pyhton & SQL
+https://leetcode.com/problems/customers-who-never-order/description/
+
 
 Email: shepherd.munemo@outlook.com
         +27 64 543 93863
