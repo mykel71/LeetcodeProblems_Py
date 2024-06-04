@@ -1,6 +1,9 @@
-# Leetcode Problems
+## Leetcode Solutions Repository
 
-### Helloooooooo family! Welcome to my Leetcode Problems repository with your favorite Engineer, Michael Shepherd M. Here will be solving coding problems from Leetcode. The goal is to solve atleast one problem per day.
+###Welcome to my Leetcode Solutions Repository!
+
+Hi, I'm Michael Shepherd M, a passionate Data Engineer with a drive to solve complex problems. 
+This repository is my journey through Leetcode, where I aim to tackle at least one problem per day. I'll be sharing my solutions in Python and SQL, with a focus on efficiency, scalability, and clean code. Whether you're a fellow problem-solver or just starting out, I hope you find inspiration and valuable insights here. Let's learn and grow together!
 
 
 #### 31052024 Python & SQL
@@ -26,5 +29,9 @@ https://leetcode.com/problems/two-sum/
  Solution 1. Double for loop - Brute force solution. Runtime = O(n^2)
  Solution 2. Dictionary storage. O(n)
 
+
+
+
+##### Contact:
 Email: shepherd.munemo@outlook.com
-        +27 64 543 93863
+Phone: +27 64 543 9386
