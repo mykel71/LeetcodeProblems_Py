@@ -29,6 +29,7 @@ https://leetcode.com/problems/two-sum/
  Solution 1. Double for loop - Brute force solution. Runtime = O(n^2)
  Solution 2. Dictionary storage. O(n)
 
+#### 04062024 Python & SQL
 
 
 
