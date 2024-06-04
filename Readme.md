@@ -20,6 +20,9 @@ https://leetcode.com/problems/duplicate-emails/description/
 #### 03062024 Pyhton & SQL
 https://leetcode.com/problems/customers-who-never-order/description/
 
+#### 04062024
+https://leetcode.com/problems/two-sum/
+
 
 Email: shepherd.munemo@outlook.com
         +27 64 543 93863
