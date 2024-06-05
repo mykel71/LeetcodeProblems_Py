@@ -1,6 +1,6 @@
 ## Leetcode Solutions Repository
 
-###Welcome to my Leetcode Solutions Repository!
+### Welcome to my Leetcode Solutions Repository!
 
 Hi, I'm Michael Shepherd M, a passionate Data Engineer with a drive to solve complex problems. 
 This repository is my journey through Leetcode, where I aim to tackle at least one problem per day. I'll be sharing my solutions in Python and SQL, with a focus on efficiency, scalability, and clean code. Whether you're a fellow problem-solver or just starting out, I hope you find inspiration and valuable insights here. Let's learn and grow together!
@@ -30,7 +30,10 @@ https://leetcode.com/problems/two-sum/
  Solution 2. Dictionary storage. O(n)
 
 #### 04062024 Python & SQL
+https://leetcode.com/problems/delete-duplicate-emails/description/
 
+ #### 05062024 Python & SQL
+ https://leetcode.com/problems/game-play-analysis-i/description/
 
 
 ##### Contact:
