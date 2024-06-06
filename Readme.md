@@ -36,6 +36,18 @@ https://leetcode.com/problems/delete-duplicate-emails/description/
  https://leetcode.com/problems/game-play-analysis-i/description/
 
 
+#### 06062024 Python & SQL
+https://leetcode.com/problems/employee-bonus/
+
+
+
+
+
+
+
+
+
+
 ##### Contact:
 Email: shepherd.munemo@outlook.com
 Phone: +27 64 543 9386
