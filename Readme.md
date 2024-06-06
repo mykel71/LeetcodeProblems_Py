@@ -35,10 +35,11 @@ https://leetcode.com/problems/delete-duplicate-emails/description/
  #### 05062024 Python & SQL
  https://leetcode.com/problems/game-play-analysis-i/description/
 
-
 #### 06062024 Python & SQL
 https://leetcode.com/problems/employee-bonus/
 
+#### 06062024 Python & SQL
+https://leetcode.com/problems/classes-more-than-5-students/solutions/3306256/596-solution-with-step-by-step-explanation/
 
 
 
